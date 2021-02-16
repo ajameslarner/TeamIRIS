@@ -1,4 +1,4 @@
-# Individual Responsility of Identification Systems
+# Individual Responsility of Identification Systems (IRIS)
 
 ---
 >Personal data is a key part of Internet Security. Modern infrastructures depend heavily on your data being used to provide you with the most seamless experience online. This requires an ethical and practical solution to ensuring the integrity, availability and confidentiality of your data is protected. Our organisation aims to provide a detailed insight into what it means to be safe online while offering an Application Programming Interface for web administrators to implement tools & techniques to off-load the burden of Authentication, Identification & Encryption.
