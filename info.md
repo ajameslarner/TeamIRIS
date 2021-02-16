@@ -1,10 +1,10 @@
-#Individual Responsility of Identification Systems
+# Individual Responsility of Identification Systems
 
 ---
 >Personal data is a key part of Internet Security. Modern infrastructures depend heavily on your data being used to provide you with the most seamless experience online. This requires an ethical and practical solution to ensuring the integrity, availability and confidentiality of your data is protected. Our organisation aims to provide a detailed insight into what it means to be safe online while offering an Application Programming Interface for web administrators to implement tools & techniques to off-load the burden of Authentication, Identification & Encryption.
 
 
-#Defined Mission Statements
+# Defined Mission Statements
 
 ---
 >Our product will provide three key components of security. Information, Tools & Research.
@@ -14,7 +14,7 @@ Help educate users on the importance of data protection online.
 Allow users to provide their biometric samples for the greater good.
 
 
-##Project Developers
+## Project Developers
 
 ---
 - [x] Marcus Harrison | Web Design | 
